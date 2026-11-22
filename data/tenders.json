@@ -1,0 +1,166 @@
+{
+  "updated_at": "2026-11-22T22:56:52.499635Z",
+  "source": "https://www.find-tender.service.gov.uk/api/1.0/ocdsReleasePackages",
+  "tenders": [
+    {
+      "id": "110343-2026",
+      "ocid": "ocds-h6vhtk-06ce78",
+      "title": "Aberdeen Destination Marketing, Development and Convention Bureau Service",
+      "description": "Aberdeen City Council is seeking to appoint a single contractor to provide an integrated, city-focused Destination Marketing, Development and Convention Bureau Service for Aberdeen. The Service will support the objectives of the Aberdeen Visitor Levy and the sustainable growth of Aberdeen’s visitor economy. It will include destination marketing and communications, destination development, travel-trade activity, visitor information and welcome services, visitor-economy business engagement, Convention Bureau services, administration of a ring-fenced Convention Bureau Subvention Fund, research, evaluation, data and performance reporting. The Contract will be for an initial period of three years, with an option for the Council to extend it by up to a further two years. The anticipated commencement date is 1 April 2027.",
+      "buyer": "Aberdeen City Council",
+      "published": "2026-11-20T17:04:36Z",
+      "deadline": "2027-01-15T12:00:00Z",
+      "value": 6100000.0,
+      "region": "UKM50",
+      "tags": [
+        "marketing"
+      ],
+      "cpv": [
+        "63513000",
+        "75125000",
+        "79340000",
+        "79342000",
+        "79411100",
+        "79413000",
+        "79951000",
+        "79956000"
+      ],
+      "url": "https://www.find-tender.service.gov.uk/Notice/110343-2026"
+    },
+    {
+      "id": "108678-2026",
+      "ocid": "ocds-h6vhtk-07bd2a",
+      "title": "Promote Shetland Service 2027–2032",
+      "description": "The role of Promote Shetland is to provide an effective promotional gateway for Shetland, support collaboration among public, private, community, education and third-sector stakeholders, and protect and develop a strong, authentic and positive place brand for Shetland as a place to live, work, study, visit and invest. Tenderers should take account of Shetland’s island geography, transport links, demographic challenges, economic opportunities and the need for targeted, evidence-led promotion.",
+      "buyer": "Shetland Islands Council",
+      "published": "2026-11-16T17:12:58Z",
+      "deadline": "2027-01-18T12:00:00Z",
+      "value": null,
+      "region": "UKM66",
+      "tags": [
+        "marketing"
+      ],
+      "cpv": [
+        "79342000"
+      ],
+      "url": "https://www.find-tender.service.gov.uk/Notice/108678-2026"
+    },
+    {
+      "id": "108199-2026",
+      "ocid": "ocds-h6vhtk-07bc24",
+      "title": "Glasgow Business Growth Framework - Phase 4",
+      "description": "Glasgow City Council (the Council) requires a framework of suppliers to deliver a range of business growth consultancy services to eligible organisations across the city to aide a sustainable growth agenda and improve business start-up and survival rates. As the organisations accessing support via this Framework have different needs, the services provided must be offered flexibly. This includes, but is not limited to, face to face, digitally, by phone and one to one at suitable times and locations. The Framework is made up of 10 Lots as detailed below and aligned to the specialist area of business support to be provided. Please note funding is currently confirmed for the first two years of the Framework. This therefore represents the estimated minimum total Framework value. Should funding equal to this initial value be subsequently secured this will be used to deliver years three and fou",
+      "buyer": "Glasgow City Council",
+      "published": "2026-11-13T16:52:40Z",
+      "deadline": "2026-12-15T12:00:00Z",
+      "value": 3800000.0,
+      "region": "UKM82",
+      "tags": [
+        "web",
+        "marketing",
+        "design"
+      ],
+      "cpv": [
+        "66170000",
+        "66171000",
+        "66519310",
+        "71314300",
+        "72212481",
+        "72220000",
+        "72221000",
+        "72224000",
+        "72242000",
+        "72413000",
+        "73000000",
+        "73220000",
+        "79340000",
+        "79342000",
+        "79400000",
+        "79410000",
+        "79411000",
+        "79411100",
+        "79412000",
+        "79413000",
+        "79414000",
+        "79415200",
+        "79418000",
+        "79421200",
+        "79822500",
+        "79930000",
+        "79933000",
+        "90713000"
+      ],
+      "url": "https://www.find-tender.service.gov.uk/Notice/108199-2026"
+    },
+    {
+      "id": "106307-2026",
+      "ocid": "ocds-h6vhtk-07b7c3",
+      "title": "Computerised Maintenance Management System (CMMS) / Computer-Aided Facility Management System (CAFM)",
+      "description": "The NHS Grampian Maintenance & Technical Services (MaTS) Department is responsible for the management and maintenance of a diverse estate throughout Aberdeen City, Aberdeenshire and Moray, ranging from small healthcare facilities to large acute hospital sites. The Authority requires a CMMS/CAFM Solution capable of supporting the effective administration and control of assets, maintenance activities, compliance activities, contractor activities, reporting requirements and associated operational, governance and assurance processes.",
+      "buyer": "NHS Grampian",
+      "published": "2026-11-09T14:54:52Z",
+      "deadline": "2026-12-09T12:00:00Z",
+      "value": null,
+      "region": "UKM50",
+      "tags": [
+        "web"
+      ],
+      "cpv": [
+        "48420000",
+        "48421000",
+        "72000000",
+        "72212420",
+        "72212421",
+        "72514000"
+      ],
+      "url": "https://www.find-tender.service.gov.uk/Notice/106307-2026"
+    },
+    {
+      "id": "106281-2026",
+      "ocid": "ocds-h6vhtk-07b7b3",
+      "title": "Computerised Maintenance Management System (CMMS) / Computer-Aided Facility Management System (CAFM)",
+      "description": "The NHS Grampian Maintenance & Technical Services (MaTS) Department is responsible for the management and maintenance of a diverse estate throughout Aberdeen City, Aberdeenshire and Moray, ranging from small healthcare facilities to large acute hospital sites. The Authority requires a CMMS/CAFM Solution capable of supporting the effective administration and control of assets, maintenance activities, compliance activities, contractor activities, reporting requirements and associated operational, governance and assurance processes.",
+      "buyer": "NHS Grampian",
+      "published": "2026-11-09T14:23:27Z",
+      "deadline": "2026-12-09T12:00:00Z",
+      "value": null,
+      "region": "UKM50",
+      "tags": [
+        "web"
+      ],
+      "cpv": [
+        "48420000",
+        "48421000",
+        "72000000",
+        "72212420",
+        "72212421",
+        "72514000"
+      ],
+      "url": "https://www.find-tender.service.gov.uk/Notice/106281-2026"
+    },
+    {
+      "id": "103846-2026",
+      "ocid": "ocds-h6vhtk-0795d5",
+      "title": "Town Marketing, Promotions and Business Support Consultant",
+      "description": "The Town Council invites suitably qualified and experienced consultants or organisations to submit a tender for the provision of Town Marketing, Promotions and Business Support Services. The successful contractor will work closely with the Town Council to promote the town, support local businesses, increase visitor numbers, and deliver a small programme of community events and marketing activities. The contract is intended to provide a proactive, creative and community-focused service that enhances the town's profile, increases visitor numbers and supports economic growth. ________________________________________ The appointed consultant will: • Promote the town as a destination for shopping, leisure and tourism. • Support and engage local businesses. • Deliver community events that increase footfall. • Develop engaging marketing content across digital platforms. • Maintain an up-to-date",
+      "buyer": "Market Drayton Town Council",
+      "published": "2026-11-02T15:27:25Z",
+      "deadline": "2026-11-27T12:00:00Z",
+      "value": null,
+      "region": "UKG22",
+      "tags": [
+        "marketing"
+      ],
+      "cpv": [
+        "79000000"
+      ],
+      "url": "https://www.find-tender.service.gov.uk/Notice/103846-2026"
+    }
+  ],
+  "info": {
+    "matched_in_latest_sync": 7,
+    "raw_releases_checked": 124,
+    "lookback_days": 21,
+    "note": "Only verified official notices; source documents determine eligibility."
+  }
+}
