@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-11-25T17:22:22.524202Z",
+  "updated_at": "2026-11-26T17:01:10.684560Z",
   "source": "https://www.find-tender.service.gov.uk/api/1.0/ocdsReleasePackages",
   "tenders": [
+    {
+      "id": "112039-2026",
+      "ocid": "ocds-h6vhtk-07c479",
+      "title": "PUBLIC AFFAIRS SERVICES – DATA LAB",
+      "description": "For Public Affairs Services, covering both ongoing retainer activity and the delivery of events.",
+      "buyer": "University Of Edinburgh",
+      "published": "2026-11-26T11:20:14Z",
+      "deadline": "2027-01-06T12:00:00Z",
+      "value": 280000.0,
+      "region": "UKM75",
+      "tags": [
+        "marketing"
+      ],
+      "cpv": [
+        "79416200"
+      ],
+      "url": "https://www.find-tender.service.gov.uk/Notice/112039-2026"
+    },
     {
       "id": "110343-2026",
       "ocid": "ocds-h6vhtk-06ce78",
@@ -158,8 +176,8 @@
     }
   ],
   "info": {
-    "matched_in_latest_sync": 0,
-    "raw_releases_checked": 12,
+    "matched_in_latest_sync": 1,
+    "raw_releases_checked": 11,
     "lookback_days": 3,
     "note": "Only verified official notices; source documents determine eligibility."
   }
