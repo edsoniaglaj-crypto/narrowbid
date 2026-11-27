@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T17:01:10.684560Z",
+  "updated_at": "2026-11-27T16:47:43.588571Z",
   "source": "https://www.find-tender.service.gov.uk/api/1.0/ocdsReleasePackages",
   "tenders": [
     {
@@ -155,29 +155,11 @@
         "72514000"
       ],
       "url": "https://www.find-tender.service.gov.uk/Notice/106281-2026"
-    },
-    {
-      "id": "103846-2026",
-      "ocid": "ocds-h6vhtk-0795d5",
-      "title": "Town Marketing, Promotions and Business Support Consultant",
-      "description": "The Town Council invites suitably qualified and experienced consultants or organisations to submit a tender for the provision of Town Marketing, Promotions and Business Support Services. The successful contractor will work closely with the Town Council to promote the town, support local businesses, increase visitor numbers, and deliver a small programme of community events and marketing activities. The contract is intended to provide a proactive, creative and community-focused service that enhances the town's profile, increases visitor numbers and supports economic growth. ________________________________________ The appointed consultant will: • Promote the town as a destination for shopping, leisure and tourism. • Support and engage local businesses. • Deliver community events that increase footfall. • Develop engaging marketing content across digital platforms. • Maintain an up-to-date",
-      "buyer": "Market Drayton Town Council",
-      "published": "2026-11-02T15:27:25Z",
-      "deadline": "2026-11-27T12:00:00Z",
-      "value": null,
-      "region": "UKG22",
-      "tags": [
-        "marketing"
-      ],
-      "cpv": [
-        "79000000"
-      ],
-      "url": "https://www.find-tender.service.gov.uk/Notice/103846-2026"
     }
   ],
   "info": {
     "matched_in_latest_sync": 1,
-    "raw_releases_checked": 11,
+    "raw_releases_checked": 17,
     "lookback_days": 3,
     "note": "Only verified official notices; source documents determine eligibility."
   }
