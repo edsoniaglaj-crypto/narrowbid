@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T16:47:43.588571Z",
+  "updated_at": "2026-11-28T15:39:49.147891Z",
   "source": "https://www.find-tender.service.gov.uk/api/1.0/ocdsReleasePackages",
   "tenders": [
     {
@@ -159,7 +159,7 @@
   ],
   "info": {
     "matched_in_latest_sync": 1,
-    "raw_releases_checked": 17,
+    "raw_releases_checked": 14,
     "lookback_days": 3,
     "note": "Only verified official notices; source documents determine eligibility."
   }
